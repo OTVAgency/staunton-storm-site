@@ -25,3 +25,6 @@ Shop by Class previews design concepts; it does not add class-specific products 
 
 ## Access
 The GitHub connector previously returned 403 Resource not accessible by integration on writes. The signed-in OTVAgency browser session supports uploads, commits, and Pages administration.
+
+## Uploaded source verification
+Source uploaded in commit 8c6e15784f5b0c2549713191bd7b0ab6144b8bb7. GitHub index.html blob d5d9cdc0f5e09830d91f0d04a82b7068de5f0f81 matches the supplied file exactly. Pages source was saved as main / root after upload; this handoff commit triggers its first branch publication.
